@@ -38,11 +38,13 @@ This is counted from your LAST WITHDRAWAL in a particular pair and RESETS when u
 
 Note: Harmony Blocks = 1 day = 46800 // 2 sec // 30 per min
 
-ChefV2 LP POOLS 
+## MocihChef V2 LP POOLS 
+
+### NOTE: This is incomplete and some wighting has changed... will update soon.
 
 bMOCHI solo:
 pid: 0
-LP Address: AUTO STAKE SETUP 
+LP Address: Auto-compounding single stake pool 
 alloc: 1000
 
 hMOCHI-WONE:
@@ -61,5 +63,3 @@ LP: 0x46Ac8DdBDf4B16D6312693F8F25798db6f65Bcc1
 FlokiONE-hMOCHI
 pid: 4
 LP: 0x3541eb38d21c5e9b68f806eb3eab7f20f20c3794
-
-TODO: update w/additional pools
