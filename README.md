@@ -25,7 +25,6 @@ Early LP withdraw fees:
 There is a 25% fee if you deposit and withdraw on the same block. This helps protect against flashloans.
 
 Starting on the next block:
-- Harmony Blocks = 1 day = 43200 // 2 sec // 30 per min
 - fee structure for "early" LP Withdrawal
 - 25% same block flash loan protection
 - 5% less than 1 day
