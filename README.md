@@ -34,13 +34,13 @@ Starting on the next block:
 - 0.5% more than 7 days less than 14 days
 - 0.1% more than 14 days
 
-This is counted from your LAST WITHDRAWAL in a particular pair and RESETS when u withdraw.
+This is counted from your LAST WITHDRAWAL in a particular pair and RESETS when you withdraw.
 
 Note: Harmony Blocks = 1 day = 46800 // 2 sec // 30 per min
 
 ## MocihChef V2 LP POOLS 
 
-### NOTE: This is incomplete and some wighting has changed... will update soon.
+### NOTE: This is incomplete and some weighting has changed... will update soon.
 
 bMOCHI solo:
 pid: 0
