@@ -1,0 +1,12 @@
+deploy
+deployments
+completed
+node_modules
+hardhat.config.ts
+cache
+artifacts
+test
+package-lock.json
+test
+yarn.lock
+tsconfig.json
