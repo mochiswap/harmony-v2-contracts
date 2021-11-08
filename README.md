@@ -63,3 +63,8 @@ LP: 0x46Ac8DdBDf4B16D6312693F8F25798db6f65Bcc1
 FlokiONE-hMOCHI
 pid: 4
 LP: 0x3541eb38d21c5e9b68f806eb3eab7f20f20c3794
+
+
+### SmartChefInitializable
+
+Configurable Chef factory for partner pools.
